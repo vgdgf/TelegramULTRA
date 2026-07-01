@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تيليجرام ULTRA</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="status_running">● النسخ الاحتياطي يعمل</string>
+    <string name="status_stopped">● النسخ الاحتياطي متوقف</string>
+    <string name="status_not_configured">⚠ غير مُعدَّل</string>
+    <string name="service_description">يراقب مجلدات تيليجرام ويرفع الوسائط تلقائياً</string>
+    <string name="total_uploaded">الملفات المرفوعة</string>
+    <string name="recent_files">آخر الرفعات</string>
+    <string name="no_files_yet">لا توجد ملفات مرفوعة بعد.\nفعّل الخدمة واستقبل وسائط تيليجرام.</string>
+    <string name="warning_not_configured">البوت غير مُعدَّل. اضغط على «إعداد».</string>
+    <string name="configure">إعداد</string>
+    <string name="bot_configuration">إعداد البوت</string>
+    <string name="hint_bot_token">رمز البوت (من @BotFather)</string>
+    <string name="hint_chat_id">معرّف المحادثة (ID المستخدم أو المجموعة)</string>
+    <string name="save">حفظ</string>
+    <string name="test_connection">اختبار</string>
+    <string name="settings_saved">تم حفظ الإعدادات بنجاح</string>
+    <string name="test_success">✅ تم الاتصال بنجاح! تحقق من تيليجرام.</string>
+    <string name="test_failed">❌ فشل: %s</string>
+    <string name="error_required">هذا الحقل مطلوب</string>
+    <string name="error_fill_fields">يرجى ملء جميع الحقول أولاً</string>
+    <string name="how_to_get_token_title">كيف تحصل على رمز البوت</string>
+    <string name="how_to_get_token_body">١. افتح تيليجرام وابحث عن @BotFather\n٢. أرسل /newbot واتبع التعليمات\n٣. انسخ الرمز المُعطى\n\nللحصول على Chat ID:\n١. أرسل رسالة لبوتك\n٢. افتح: https://api.telegram.org/bot{TOKEN}/getUpdates\n٣. ابحث عن \"chat\":{\"id\": CHAT_ID}</string>
+</resources>
