@@ -1,6 +1,7 @@
-// build.gradle (Root)
 plugins {
-    id 'com.android.application' version '8.2.2' apply false
+    // تحديث إصدار الـ AGP ليكون متوافقاً مع Gradle 9+
+    id 'com.android.application' version '8.3.2' apply false
+    // تحديث Kotlin إلى 2.0.0
     id 'org.jetbrains.kotlin.android' version '2.0.0' apply false
 }
 
